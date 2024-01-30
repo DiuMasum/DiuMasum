@@ -1,6 +1,8 @@
+https://media.licdn.com/dms/image/D5616AQHvVP-HZWRIPg/profile-displaybackgroundimage-shrink_350_1400/0/1706613508190?e=1712188800&v=beta&t=YRMRbt-o72Hm-Atk_6fBo94LLHg7HGQkvlR126dCSts
+
 ### Hi there 👋, I'm Masum Billah
-#### Software Engineer | Programmer | Web Developer
-![Software Engineer | Programmer | Web Developer](https://media.licdn.com/dms/image/D5616AQHvVP-HZWRIPg/profile-displaybackgroundimage-shrink_350_1400/0/1706613508190?e=1712188800&v=beta&t=YRMRbt-o72Hm-Atk_6fBo94LLHg7HGQkvlR126dCSts)
+#### Software Engineer | Pogrammer | Web Developer
+![Software Engineer | Programmer | Web Developer]
 
 I’m a Full-Stack Web Developer dedicated to crafting flawless websites that delight clients. An avid learner keen on openly sharing expertise. Thrives on tackling real-world challenges with strategic precision and a goal-driven mindset. Committed to top-notch quality and clear communication. Specializes in Laravel, PHP, MySQL, JavaScript, and React for unparalleled results.
 
@@ -23,6 +25,4 @@ Skills: LARAVEL / PHP  / MYSQL / JAVASCRIPT / REACT / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiuMasum)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DiuMasum&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=DiuMasum)  
 
