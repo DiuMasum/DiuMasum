@@ -4,7 +4,7 @@
 
 I’m a Full-Stack Web Developer dedicated to crafting flawless websites that delight clients. An avid learner keen on openly sharing expertise. Thrives on tackling real-world challenges with strategic precision and a goal-driven mindset. Committed to top-notch quality and clear communication. Specializes in Laravel, PHP, MySQL, JavaScript, and React for unparalleled results.
 
-Skills: LARAVEL / PHP  / MYSQL / JAVASCRIPT / REACT / HTML / CSS
+Skills: LARAVEL / PHP  / MYSQL / REACT / JAVASCRIPT / HTML / CSS
 
 - 🔭 I’m currently working on Data Science Lab, DIU 
 - 🌱 I’m currently learning Advanced Lavel  
